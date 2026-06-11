@@ -1,0 +1,26 @@
+{
+  "panel": {
+    "width": 1000.0,
+    "height": 800.0
+  },
+  "spacing": 20.0,
+  "footprints": [
+    {
+      "id": "A",
+      "width": 42.0,
+      "height": 72.0,
+      "allow_rotation": true,
+      "quantity": null,
+      "source_image": "C:\\Users\\tomas\\Downloads\\test.png",
+      "cropped_image": "assets\\footprints\\test_cropped.png",
+      "cropped_pixel_width": 42,
+      "cropped_pixel_height": 72,
+      "crop_bbox": {
+        "left": 32,
+        "top": 36,
+        "right": 74,
+        "bottom": 108
+      }
+    }
+  ]
+}

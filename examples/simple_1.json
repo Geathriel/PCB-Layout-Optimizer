@@ -1,0 +1,24 @@
+{
+  "panel": {
+    "width": 50.0,
+    "height": 50.0
+  },
+  "spacing": 1.0,
+  "footprints": [
+    {
+      "id": "L1",
+      "width": 12.0,
+      "height": 12.0,
+      "allow_rotation": true,
+      "quantity": null,
+      "polygon_points": [
+        [0.0, 0.0],
+        [12.0, 0.0],
+        [12.0, 4.0],
+        [4.0, 4.0],
+        [4.0, 12.0],
+        [0.0, 12.0]
+      ]
+    }
+  ]
+}
